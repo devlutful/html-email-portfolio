@@ -1,0 +1,1180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light">
+  <meta name="supported-color-schemes" content="light">
+  <title>Ripprl: Revolutionize your Employee Training</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+
+  <style>
+  
+      /* Reset */
+      body, table, td {
+        margin: 0;
+        padding: 0;
+        border: 0;
+      }
+
+
+      body, table, td, h1, h2, h3, p {
+        font-family: 'Poppins', Arial, Helvetica, sans-serif !important;
+        margin: 0px;
+        padding: 0px;
+      }
+
+
+      /* Mobile first container */
+      .container {
+        width: 100%;
+        max-width: 900px;
+        padding: 50px;
+      }
+
+
+      .custom-container {
+          width: 100%;
+          max-width: 900px;
+          padding: 25px;
+          padding-top: 50px;
+          padding-bottom: 50px;
+      }
+
+
+
+
+      /*Hero Section Start here*/
+      .col1 {
+        width:65%;
+        display: inline-block;
+      }
+
+      .col2 {
+        width: 35%;
+        display: inline-block;
+        text-align: right;
+      }
+
+
+      .col2 img {
+        width: 250px;
+        display: block;
+        text-align: right;
+      }
+
+
+      .view-demo-btn {
+          background: transparent;
+          color: white;
+          padding: 12px;
+          border-radius: 100px;
+          border: 1px solid #837c7c;
+          padding-top: 6px;
+          padding-bottom: 6px;
+          font-weight: 400!important;
+          text-decoration: none;
+      }
+
+      .explore-ripprl-cta {
+        border-radius: 100px;
+        background-color: #f28c28;
+        color: white;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 12px;
+        padding-right: 12px;
+        border: none!important;
+        margin-left: 15px;
+        text-decoration: none;
+     }
+
+
+     .desktop-hide {
+      display: none;
+     }
+
+    /*Hero Section End*/
+
+
+
+    /*Service Block Start*/
+    .service-block-col1 {
+        width: 200px;
+        display: inline-block;
+        min-height: 255px;
+    }
+    /*Service Block End here*/
+
+
+
+    /*Why Choose Us Section Start here*/
+    .why-choose-block {
+        width: 325px;
+        display: inline-block;
+        min-height: 130px;
+    }
+    /*Why Choose Us Section End here*/
+
+
+
+    /*Versatile Learning Solution Sart here*/
+
+    .Versatile-Learning-Solutions-block {
+        width: 240px;
+        display: inline-block;
+        min-height: 276px;
+        text-align: center;
+    }
+
+    .Versatile-Learning-Solutions-Section {
+      text-align: center;
+    }
+
+    .Versatile-Learning-Solutions-Section p {
+          margin-left: 0px!important;
+    }
+
+    .Versatile-Learning-Solutions-Section h2 {
+          margin-left: 0px!important;
+    }
+
+
+    .Versatile-Learning-Solutions-block-2 {
+        width: 240px;
+        display: inline-block;
+        min-height: 276px;
+        text-align: center;
+    }
+
+    .Versatile-Learning-Solutions-block-2 p {
+          margin-left: 0px!important;
+    }
+
+    .Versatile-Learning-Solutions-block-2 h2 {
+          margin-left: 0px!important;
+    }
+
+
+
+    .Versatile-Learning-Solutions-block-3 {
+        width: 240px;
+        display: inline-block;
+        min-height: 276px;
+        text-align: center;
+    }
+
+    .Versatile-Learning-Solutions-block-3 p {
+          margin-left: 0px!important;
+    }
+
+
+      .Versatile-Learning-Solutions-block-3 p>br {
+          display: none;
+    }
+
+
+    .Versatile-Learning-Solutions-block-3 h2 {
+          margin-left: 0px!important;
+    }
+
+
+    /*Versatile Learning Solution Sart here*/
+
+
+    /*Trusted Section Block Start here*/
+
+    .trusted-by-block {
+        width: 215px;
+        display: inline-block;
+        min-height: 150px0;
+        border: 1px solid #ffffff1c;
+    }
+
+
+    
+    .trusted-by-block img {
+        width: 45px;
+    }
+
+
+        .trusted-by-block-2 {
+        width: 215px;
+        display: inline-block;
+        min-height: 150px0;
+        border: 1px solid #ffffff1c;
+    }
+
+
+
+    .trusted-by-block-2 img {
+    width: 80px!important;
+}
+
+    /*Trusted Section Block Section End here*/
+
+
+    /*Made Learning easy section start*/
+
+    .made-learning-easy-block {
+        width: 310px;
+        display: inline-block;
+        min-height: 308px;
+        border: 1px solid #ffffff1c;
+    }
+
+    .made-learning-easy-block  img {
+        width: 100%;
+    }
+
+
+    .made-learning-easy-block-2 {
+        width: 310px;
+        display: inline-block;
+        min-height: 308px;
+        border: 1px solid #ffffff1c;
+    }
+
+    .made-learning-easy-block-2  img {
+        width: 100%;
+    }
+
+    /*Made learning block easy end here*/
+
+
+    /*Footer Cta Start here*/
+    
+    .cta-section-block {
+        width: 700px;
+        display: inline-block;
+        min-height: 150px0;
+        border: 1px solid #ffffff1c;
+        margin: 50px!important;
+        padding: 50px!important;
+    }
+
+
+      @media only screen and (max-width: 600px) {
+                  
+
+                  .container {
+                    padding: 20px;
+                    padding-top: 30px;
+                    padding-bottom: 30px;
+                  }
+
+                  /*Hero Section Start*/
+                  .col1 {
+                    width:100%!important;
+                    display: inline-block;
+                    text-align: center;
+                    padding-top: 5px;     
+                    padding-bottom: 25px;               
+                  }
+
+                  tr.welcome-section img {
+                      padding-bottom: 15px;
+                  }
+
+                  .col1 h1 {
+                    font-size: 30px!important;
+                    line-height: 35px!important;
+                  }
+
+                   .col1 p {
+                    font-size: 16px!important;
+                    line-height: 25px!important;
+                   }
+
+                   .col1 br {
+                    display: none!important;
+                   }
+
+                  .col2 {
+                    width:100%!important;
+                    display: inline-block;
+                  }
+                  /*Hero Section end*/
+
+                  .mobile-hide {
+                    display: none;
+                    width: 100%!important;
+                  }
+
+                  .col2 img {
+                    width: 100%;
+                    display: block;
+                    text-align: right;
+                  }
+                  /*Hero Section End*/
+
+
+                  /*Service Section Start*/
+                  .service-block-col1 {
+                      width: 300px;
+                      display: inline-block;
+                      min-height: 200px;
+                      margin: 0px!important;
+                  }
+
+                  .service-block-col-mobile {
+                    margin-bottom: 30px!important;
+                    margin-top: 30px!important;
+                  }
+
+                  .service-block-col1 p {
+                      padding-top: 2px!important;
+                  }
+
+                  .service-block-col1 h2 {
+                      padding-top: 10px!important;
+                  }
+
+                  .service-block-col1 h2>br {
+                      display: none;
+                  }
+
+                  /*Service Section end*/
+
+
+                  /*Why Choose Us Section Start*/
+                  .why-choose-us-heading h2 {
+                      padding-bottom: 20px!important;
+                  }
+
+                  .why-choose-block {
+                      width: 300px!important;
+                      display: inline-block;
+                      margin-bottom: 20px;
+                      min-height: 100px;
+                      margin-left: 0px!important;
+                      
+                  }
+
+                  td.made-learning-easy-block {
+                      margin-left: 0px!important;
+                      margin-bottom: 25px!important;
+                  }
+
+                  .made-learning-easy-block-2 {
+                    margin-left: 0px!important;
+                  }
+
+                  .why-choose-block-mobile {
+                    margin: 0px!important;
+                  }
+
+                  .why-choose-block-mobile-top{
+                      margin-top: 30px!important;
+                  }
+
+                  .Versatile-Learning-Solutions-Section-heading p>br {
+                      display: none!important;
+                  }
+
+                  /*Why Choose Us Section End here*/
+
+
+                  /*Versatuke Learning Solution Section Start here*/
+                  .custom-container {
+                      width: 100%;
+                      max-width: 900px;
+                      padding: 20px;
+                      padding-top: 30px;
+                      padding-bottom: 30px;
+                  }
+
+                  .Versatile-Learning-Solutions-Section-heading h2 {
+                      line-height: 35px!important;
+                      padding-bottom: 8px!important;
+                  }
+
+
+
+
+                  .Versatile-Learning-Solutions-Section-heading h2 {
+                    line-height: 40px;
+                  }
+
+                  .Versatile-Learning-Solutions-Section-heading br {
+                    display: none!important;
+                  }
+
+
+                  .Versatile-Learning-Solutions-block {
+                      width: 345px!important;
+                      display: inline-block;
+                      margin-bottom: 20px;
+                      min-height: 100px;
+                      margin-left: 0px!important;
+                      padding: 0px!important;
+                      text-align: center;
+
+                  }
+
+                  .Versatile-Learning-Solutions-block img {
+                      width: 100% !important;
+                      margin-left: 0px!important;
+    
+                  }
+
+                  .Versatile-Learning-Solutions-Section h2 {
+                      margin-left: 0px!important;
+                      font-size: 20px!important;
+                      line-height: 25px!important;
+                  }
+
+                  .Versatile-Learning-Solutions-Section p {
+                      margin-left: 0px!important;
+                  }
+
+
+                  .Versatile-Learning-Solutions-block-2 {
+                      width: 345px!important;
+                      display: inline-block;
+                      margin-bottom: 20px;
+                      min-height: 100px;
+                      margin-left: 0px!important;
+                      padding: 0px!important;
+                      text-align: center;
+                  }
+
+
+
+                  .Versatile-Learning-Solutions-block-2 img {
+                      width: 100% !important;
+                      margin-right: 0px;
+                  }
+
+                  .Versatile-Learning-Solutions-block-2  h2 {
+                      margin-left: 0px!important;
+                      font-size: 20px!important;
+                      line-height: 25px!important;
+                  }
+
+                  .Versatile-Learning-Solutions-block-2  p {
+                      margin-left: 0px!important;
+                  }
+
+
+
+                  .Versatile-Learning-Solutions-block-3 {
+                      width: 345px!important;
+                      display: inline-block;
+                      min-height: 100px;
+                      margin-left: 0px!important;
+                      padding: 0px!important;
+                      text-align: center;
+                  }
+
+
+
+                  .Versatile-Learning-Solutions-block-3 img {
+                      width: 100% !important;
+                      margin-left: 0px;
+                  }
+
+                  .Versatile-Learning-Solutions-block-3  h2 {
+                      margin-left: 0px!important;
+                      font-size: 20px!important;
+                      line-height: 25px!important;
+                  }
+
+                  .Versatile-Learning-Solutions-block-3  p {
+                      margin-left: 0px!important;
+                  }
+
+
+
+                  /*Trust Section*/
+                
+                .Trustedby--Section-heading h2 {
+                    line-height: 35px !important;
+                    padding-bottom: 8px !important;
+                }
+                
+
+
+                td.Trustedby--Section-heading {
+                    padding-bottom: 20px!important;
+                }
+                                
+                                
+                  tr.trusted-by-Section {
+                    text-align: center!important;
+                }
+
+
+                td.trusted-by-block {
+                  margin-left: 0px!important;
+              }
+
+              .trusted-by-block-2 {
+                  width: 270px!important;
+                  display: inline-block;
+                  min-height: 150px0;
+                  border: 1px solid #ffffff1c;
+                  margin-left: 0px!important;
+                  margin-bottom: 25px!important;
+                  margin-top: 25px;
+              }
+
+
+              .trusted-by-block {
+                  width: 270px;
+                  display: inline-block;
+                  min-height: 150px0;
+                  border: 1px solid #ffffff1c;
+              }
+
+                td.trusted-by-block h2 {
+                    text-align: left!important;
+                }
+
+                td.trusted-by-block p {
+                    text-align: left!important;
+                }
+
+
+                td.trusted-by-block-2 p {
+                    text-align: left!important;
+                }
+
+                td.trusted-by-block-2 h2 {
+                    text-align: left!important;
+                }
+
+
+                /*Learning Made Easy*/
+
+                .made-learning-easy-section-heading h2 {
+                      line-height: 35px !important;
+                      padding-bottom: 8px !important;
+                  }
+
+
+                  td.made-learning-easy-section-heading {
+                      padding-bottom: 20px!important;
+                  }
+
+
+                  /*Footer CTA */
+                  .cta-section-block {
+                    width: 300px;
+                    display: inline-block;
+                    min-height: 150px0;
+                    border: 1px solid #ffffff1c;
+                    margin: 30px!important;
+                    padding: 10px!important;
+                    padding-bottom: 20px!important;
+                }
+
+
+                td.cta-section-block h2 {
+                    font-size: 30px!important;
+                    line-height: 35px!important;
+                }
+
+                td.cta-section-block p>br {
+                    display: none;
+                }
+
+                td.cta-section-block p {
+                  padding-top: 10px!important;
+                  padding-bottom: 28px!important;
+                }
+
+              td.cta-section-block {
+                  border-radius: 10px!important;
+                }
+
+
+      }
+
+
+   
+  </style>
+</head>
+<body>
+    
+
+
+<!--Hero Section Start-->
+<table width="100%" cellpadding="0" cellspacing="0" role="presentation" bgcolor="transparent">
+  <tr>
+    <td align="center">
+
+      <!-- Container -->
+      <table class="container" width="100%" cellpadding="0" cellspacing="0" role="presentation" style="background:#000000;">
+        <tr>
+          <td>
+
+            <!-- Content row -->
+            <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+              <tr class="welcome-section">
+
+                <!-- Text -->
+                <td class="col1" style=" color:white;">
+                      <h1 style="line-height: 55px; font-size: 45px;">Ripprl: <br>Revolutionize your <br><span style="color: #f57c00;">Employee Training</span></h1>
+                      
+                      <p style="font-size: 18px; font-weight: 300; line-height: 25px; padding-top: 15px;">
+                        Gamified. Mobile-First. Scalable. Make organisational <br>learning engaging, customizable, and scalable <br>for today’s modern workforce.
+                      </p>
+               </td>
+
+
+                <!-- Image For Desktop-->
+                <td class="col2" style="text-align: right; ">
+                  <img src="https://storage.mlcdn.com/account_image/946252/Jr1wpIx1iUZp6tuz30NKmhf0yid57g40JiX7qpI7.png" width="200px" alt="Ripprl">
+                </td>
+
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+<!--Hero Section End-->
+
+
+
+
+
+
+<!--Service Block Section Start-->
+<table width="100%" cellpadding="0" cellspacing="0" role="presentation" bgcolor="transparent">
+  <tr>
+    <td align="center">
+
+      <!-- Container -->
+      <table class="container" width="100%" cellpadding="0" cellspacing="0" role="presentation" style="background:#F2F2F2;">
+        <tr>
+          <td>
+
+            <!-- Content row -->
+            <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+              <tr class="Service-block">
+
+                <!-- Service Block -->
+                <td class="service-block-col1" style=" color:white; background-color: white; padding: 25px; border-radius: 15px; box-shadow:0 12px 30px rgba(0, 0, 0, 0.06),
+  0 4px 12px rgba(0, 0, 0, 0.05); ;">
+                      <img src="https://storage.mlcdn.com/account_image/946252/j3TiwQ3ucLMjE8Q0kqU5QyaWIfIqzUmYEsp1jCCG.png" alt="" width="50px">
+
+                      <h2 style="line-height: 25px; font-size: 17px; color:#2B2B2B; padding-top: 10px;">Engage & Learn Anywhere</h2>
+                      
+                      <p style="font-size: 15px; font-weight: 300; line-height: 22px; padding-top: 5px; color: #2B2B2B;">
+                        Mobile-first platform that allows employees to participate in training anytime, anywhere – ideal for remote and hybrid teams.
+                      </p>
+                </td>
+
+                <!-- Service Block -->
+                <td class="service-block-col1 service-block-col-mobile" style=" color:white; background-color: white; padding: 25px; border-radius: 15px; box-shadow:0 12px 30px rgba(0, 0, 0, 0.06),
+  0 4px 12px rgba(0, 0, 0, 0.05); margin-left: 25px;">
+                      <img src="https://storage.mlcdn.com/account_image/946252/OOxwYXJPP3hGJz3ySBDZbDNkcQivKqsHOVeBVHBK.png" alt="" width="50px">
+
+                      <h2 style="line-height: 25px; font-size: 17px; color:#2B2B2B; padding-top: 10px;">Customize Content <br>& Brand</h2>
+                      
+                      <p style="font-size: 15px; font-weight: 300; line-height: 22px; padding-top: 5px; color: #2B2B2B;">
+                        White-label the platform and build programmes using your organisation’s content, branding, and learning goals.
+                      </p>
+                </td>
+
+                
+                <!-- Service Block -->
+                <td class="service-block-col1" style=" color:white; background-color: white; padding: 25px; border-radius: 15px; box-shadow:0 12px 30px rgba(0, 0, 0, 0.06),
+  0 4px 12px rgba(0, 0, 0, 0.05); margin-left: 25px;">
+                      <img src="https://storage.mlcdn.com/account_image/946252/UDBWWCT7kRLgJjGUusO4huQaIib0IXDRjdzZNTdP.png" alt="" width="50px">
+
+                      <h2 style="line-height: 25px; font-size: 17px; color:#2B2B2B; padding-top: 10px;">Gamify Learning Experiences</h2>
+                      
+                      <p style="font-size: 15px; font-weight: 300; line-height: 22px; padding-top: 5px; color: #2B2B2B;">
+                        Use rewards, challenges, points, and leaderboards to make learning immersive, interactive, and sticky.
+                      </p>
+                </td>       
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+<!--Service Block End-->
+
+
+
+<!--Why Choose Us Section Start here-->
+<table width="100%" cellpadding="0" cellspacing="0" role="presentation" bgcolor="transparent">
+  <tr>
+    <td align="center">
+
+      <!-- Container -->
+      <table class="container" width="100%" cellpadding="0" cellspacing="0" role="presentation" style="background:#F28C28;">
+        <tr>
+              <td style="text-align: center;" class="why-choose-us-heading">
+                  <h2 style="color: white; padding-bottom: 30px; font-size: 30px;">Why Choose Ripprl?</h2>
+              </td>
+        </tr>
+        
+        <tr>
+          <td>
+
+            <!-- Content row -->
+            <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+              <tr class="why-choose-section">
+
+                <!-- Why choose Block -->
+                <td class="why-choose-block why-choose-block-mobile" style=" color:white; background-color: white; padding: 25px; border-radius: 15px; box-shadow:0 12px 30px rgba(0, 0, 0, 0.06),
+  0 4px 12px rgba(0, 0, 0, 0.05); margin-top: 0px;">
+                      <img src="https://storage.mlcdn.com/account_image/946252/60dB4kdgXlsIsR00GAvfWOSbHrrRObigcoN7xJnc.png" alt="" width="25px">
+
+                      <h2 style="line-height: 21px; font-size: 16px; color:#2B2B2B; padding-top: 10px;">Solves for Remote Work</h2>
+                      
+                      <p style="font-size: 15px; font-weight: 300; line-height: 22px; padding-top: 5px; color: #2B2B2B;">
+                       Deliver consistent learning experiences across distributed teams.
+                      </p>
+                </td>
+
+
+                <td class="why-choose-block why-choose-block-mobile why-choose-block-mobile-top" style=" color:white; background-color: white; padding: 25px; border-radius: 15px; box-shadow:0 12px 30px rgba(0, 0, 0, 0.06),
+  0 4px 12px rgba(0, 0, 0, 0.05); margin-left: 25px; margin-top: 0px;">
+                      <img src="https://storage.mlcdn.com/account_image/946252/WxqrPVrFDgI5VWrDW96arl4A3gKC49qGbkRzWu1g.png" alt="" width="25px">
+
+                      <h2 style="line-height: 21px; font-size: 16px; color:#2B2B2B; padding-top: 10px;">Engages the Modern Workforce</h2>
+                      
+                      <p style="font-size: 15px; font-weight: 300; line-height: 22px; padding-top: 5px; color: #2B2B2B;">
+                       Gamified elements that resonate with Millennials and Gen Z.
+                      </p>
+                </td>
+
+
+                <td class="why-choose-block why-choose-block-mobile why-choose-block-mobile-top" style=" color:white; background-color: white; padding: 25px; border-radius: 15px; box-shadow:0 12px 30px rgba(0, 0, 0, 0.06),
+  0 4px 12px rgba(0, 0, 0, 0.05); margin-left: 0px; margin-top: 25px;">
+                      <img src="https://storage.mlcdn.com/account_image/946252/gpxgk0BJX3KXzz6Y3mY4rvdwDVznYUTOjjUH1pOY.png" alt="" width="25px">
+
+                      <h2 style="line-height: 21px; font-size: 16px; color:#2B2B2B; padding-top: 10px;">Continuous Learning Culture</h2>
+                      
+                      <p style="font-size: 15px; font-weight: 300; line-height: 22px; padding-top: 5px; color: #2B2B2B;">
+                       Bite-sized, accessible modules encourage ongoing development.
+                      </p>
+                </td>
+
+
+                <td class="why-choose-block why-choose-block-mobile why-choose-block-mobile-top" style=" color:white; background-color: white; padding: 25px; border-radius: 15px; box-shadow:0 12px 30px rgba(0, 0, 0, 0.06),
+  0 4px 12px rgba(0, 0, 0, 0.05); margin-left: 25px; margin-top: 25px;">
+                      <img src="https://storage.mlcdn.com/account_image/946252/6DdEGUrZ5mtTKTW73qvK3EBScajZGOKbmDhOkBWc.png" alt="" width="25px">
+
+                      <h2 style="line-height: 21px; font-size: 17px; color:#2B2B2B; padding-top: 10px;">Reduces Training Costs</h2>
+                      
+                      <p style="font-size: 15px; font-weight: 300; line-height: 22px; padding-top: 5px; color: #2B2B2B;">
+                       Digitally deploy programmes and reduce traditional training expenses.
+                      </p>
+                </td>  
+
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+<!--Why Choose Us Section End here-->
+
+
+
+
+
+<!--Versatile Learning Solutions Start here-->
+<table width="100%" cellpadding="0" cellspacing="0" role="presentation" bgcolor="transparent">
+  <tr>
+    <td align="center">
+
+      <!-- Container -->
+      <table class="custom-container" width="100%" cellpadding="0" cellspacing="0" role="presentation" style="background:#F2F2F2;">
+        <tr>
+              <td style="text-align: center; padding-bottom: 30px;" class="Versatile-Learning-Solutions-Section-heading">
+                  <h2 style="color:#232B36; padding-bottom: 0px; font-size: 30px;">Versatile Learning Solutions</h2>
+
+                      <p style="font-size: 15px; font-weight: 500; line-height: 22px; color: #2B2B2B;">
+                       Whether it's onboarding new hires or building team cohesion,<br> Ripprl adapts to your specific organisational needs.
+                      </p>
+              </td>
+        </tr>
+        
+       <tr>
+          <td>
+
+            <!-- Content row -->
+            <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+              <tr class="Versatile-Learning-Solutions-Section">
+
+                <!-- Versatile-Learning-Solutions-Sectio Block -->
+                <td class="Versatile-Learning-Solutions-block" style=" color:white; padding: 15px; border-radius: 15px;">
+                      
+
+                      <h2 style="line-height: 21px; font-size: 16px; color:#2B2B2B;">New Hire Onboarding</h2>
+                      
+                      <p style="font-size: 15px; font-weight: 300; line-height: 20px; padding-top: 2px; color: #2B2B2B; padding-bottom: 15px;">
+                       Structured onboarding with guided modules, handbooks, and training videos.
+                      </p>
+
+
+                      <img src="https://storage.mlcdn.com/account_image/946252/7wuFlWH4Hhaz8aHJsQC31fKJsHrrT7WSqC9yPfhZ.png" alt="" width="97%">
+                </td>
+
+
+
+                <!-- Versatile-Learning-Solutions-Sectio Block -->
+                <td class="Versatile-Learning-Solutions-block-2" style=" color:white; padding: 15px; border-radius: 15px; margin-left:0px;">
+                      
+
+                      <h2 style="line-height: 21px; font-size: 16px; color:#2B2B2B; padding-top: 5px;">Self-Paced Learning</h2>
+                      
+                      <p style="font-size: 15px; font-weight: 300; line-height: 20px; padding-top: 2px; color: #2B2B2B; padding-bottom: 15px;">
+                       Learners progress independently or through curated learning paths.
+                      </p>
+
+                      <img src="https://storage.mlcdn.com/account_image/946252/uqgRi92eLHW7EoQvszZiUrdp0YU25KTui9gefQE0.png" alt="" width="100%">
+                </td>
+
+
+                <!-- Versatile-Learning-Solutions-Sectio Block -->
+                <td class="Versatile-Learning-Solutions-block-3" style=" color:white; padding: 15px; border-radius: 15px;">
+                      
+                      <h2 style="line-height: 21px; font-size: 16px; color:#2B2B2B; padding-top: 5px;">Phy-gital Team Building</h2>
+                      
+                      <p style="font-size: 15px; font-weight: 300; line-height: 20px; padding-top: 2px; color: #2B2B2B; padding-bottom: 15px;">
+                       Learning-centric activities delivered virtually, in-person, <br>or hybrid.
+                      </p>
+
+                      <img src="https://storage.mlcdn.com/account_image/946252/aKcvmgcbmfnMMnRC1xID24Jy20zhPiOWhSpXIj2Z.png" alt="" width="100%">
+                </td>
+
+
+
+
+              </tr>
+            </table>
+
+          </td>          
+        </tr>
+
+      </table>
+
+    </td>
+  </tr>
+</table>
+<!--Versatile Learning Solutions End here-->
+
+
+
+
+
+<!-- Trusted By Leading Organization start here-->
+<table width="100%" cellpadding="0" cellspacing="0" role="presentation" bgcolor="transparent">
+  <tr>
+    <td align="center">
+
+      <!-- Container -->
+      <table class="container" width="100%" cellpadding="0" cellspacing="0" role="presentation" style="background:#212934">
+        <tr>
+              <td style="text-align: center; padding-bottom: 30px;" class="Trustedby--Section-heading">
+                  <h2 style="color:white; padding-bottom: 0px; font-size: 30px;">Trusted by Leading Organisations</h2>
+
+              </td>
+        </tr>
+
+
+        
+       <tr>
+          <td>
+
+            <!-- Content row -->
+            <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+              <tr class="trusted-by-Section">
+                        
+                        <!--Block 1-->
+                        <td class="trusted-by-block" style="padding:15px; border-radius:15px; background-color:#303A47;">
+
+                                <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+
+                                  <!-- Row 1: Image 30% + Heading 70% -->
+                                  <tr>
+                                    <td width="20%" valign="middle">
+                                      <img 
+                                        src="https://storage.mlcdn.com/account_image/946252/e2ne7SA8WzmwkICGA4nyN1SheqAjaS1glEvJVvZr.png" 
+                                        width="80"
+                                        style="display:block;"
+                                        alt=""
+                                      >
+                                    </td>
+
+                                    <td width="80%" valign="middle" style="color:white; padding-left:10px; padding-top: 10px;">
+                                      <h2 style="margin:0; font-size:16px; line-height:21px; color:white;">
+                                        Global Leadership Programmes
+                                      </h2>
+                                    </td>
+                                  </tr>
+
+                                  <!-- Row 2: Full-width description -->
+                                  <tr>
+                                    <td colspan="2" style="padding-top:10px;">
+                                      <p style="margin:0; font-size:13px; line-height:20px; color:#d1d8e0;">
+                                        Gamified leadership simulations using team-based challenges.
+                                      </p>
+                                    </td>
+                                  </tr>
+
+                                </table>
+
+                        </td>
+
+
+                        <!--Block 2-->
+                        <td class="trusted-by-block-2" style="padding:15px; border-radius:15px; background-color:#303A47; margin-left: 25px;">
+
+                                <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+
+                                  <!-- Row 1: Image 30% + Heading 70% -->
+                                  <tr>
+                                    <td width="25%" valign="middle">
+                                      <img 
+                                        src="https://storage.mlcdn.com/account_image/946252/kZUAJcEAMgWyymfvwWc2YvlOp65nv5zC4V6PvNdj.png" 
+                                        width="80"
+                                        style="display:block;"
+                                        alt=""
+                                      >
+                                    </td>
+
+                                    <td width="80%" valign="middle" style="color:white; padding-left:10px; padding-top: 10px;">
+                                      <h2 style="margin:0; font-size:16px; line-height:21px; color:white;">
+                                        Post-Graduate Orientation
+                                      </h2>
+                                    </td>
+                                  </tr>
+
+                                  <!-- Row 2: Full-width description -->
+                                  <tr>
+                                    <td colspan="2" style="padding-top:10px;">
+                                      <p style="margin:0; font-size:13px; line-height:20px; color:#d1d8e0;">
+                                        An immersive campus race experience for 600+ students.
+                                      </p>
+                                    </td>
+                                  </tr>
+
+                                </table>
+
+                        </td>
+
+
+                        <!--Block 2-->
+                        <td class="trusted-by-block" style="padding:15px; border-radius:15px; background-color:#303A47; margin-left: 25px;">
+
+                                <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+
+                                  <!-- Row 1: Image 30% + Heading 70% -->
+                                  <tr>
+                                    <td width="20%" valign="middle">
+                                      <img 
+                                        src="https://storage.mlcdn.com/account_image/946252/umR0gUznDcXJVdS5Q27j9NYOluDC43rNjRgDbTA8.png" 
+                                        width="80"
+                                        style="display:block;"
+                                        alt=""
+                                      >
+                                    </td>
+
+                                    <td width="80%" valign="middle" style="color:white; padding-left:10px; padding-top: 10px;">
+                                      <h2 style="margin:0; font-size:16px; line-height:21px; color:white;">
+                                        Virtual Onboarding Race
+                                      </h2>
+                                    </td>
+                                  </tr>
+
+                                  <!-- Row 2: Full-width description -->
+                                  <tr>
+                                    <td colspan="2" style="padding-top:10px;">
+                                      <p style="margin:0; font-size:13px; line-height:20px; color:#d1d8e0;">
+                                        Themed virtual onboarding with quizzes & collaboration.
+                                      </p>
+                                    </td>
+                                  </tr>
+                                </table>
+                        </td>
+              </tr>
+            </table>
+          </td>          
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<!--Trusted By Leading Organization end here-->
+
+
+
+
+
+<!-- Ready Made learning challenges start here-->
+<table width="100%" cellpadding="0" cellspacing="0" role="presentation" bgcolor="transparent">
+  <tr>
+    <td align="center">
+
+      <!-- Container -->
+      <table class="container" width="100%" cellpadding="0" cellspacing="0" role="presentation" style="background:#EAEAEA">
+        <tr>
+              <td style="text-align: center; padding-bottom: 30px;" class="made-learning-easy-section-heading">
+                  <h2 style="color:#212934; padding-bottom: 0px; font-size:30px;">Ready-Made Learning Challenges</h2>
+              </td>
+        </tr>
+
+
+        
+       <tr>
+          <td>
+
+            <!-- Content row -->
+            <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+              <tr class="made-learning-easy-Section" style="text-align: center;">
+                        
+                        <!--Block 1-->
+                        <td class="made-learning-easy-block" style="padding:0px; border-radius:15px; background-color:white; text-align: left;">
+
+                                <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+
+
+                                  <tr>
+                                    <td width="100%" valign="middle">
+                                      <img 
+                                        src="https://storage.mlcdn.com/account_image/946252/CgrhaUrcFLXQPOJfHuoBHp2MKJE4uQZMX3qXBBpc.png" 
+                                        width="100%"
+                                        style="display:block; border-top-right-radius: 15px; border-top-left-radius: 15px;"
+                                        alt="">
+                                    </td>
+                                  </tr>
+
+
+                                  <tr style="background-color: white;">
+                                    <td colspan="2" style="padding-top:10px; padding-left: 15px; padding-right: 15px; padding-bottom: 15px; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;">
+                                      <h2 style="margin:0; font-size:20px; line-height:25px; color:#212934; padding-bottom: 5px;">
+                                        The 21-Day Wellness <br> Challenge
+                                      </h2>
+
+                                      <p style="margin:0; font-size:15px; line-height:20px; color:#212934; padding-bottom: 5px;">
+                                       Daily gamified challenges focused on physical, mental, and emotional well-being.
+                                      </p>
+
+
+                                    </td>
+                                  </tr>
+                                </table>
+
+                        </td>
+
+
+                        <!--Block 2-->
+                        <td class="made-learning-easy-block-2" style="padding:0px; border-radius:15px; background-color:white; margin-left: 80px; text-align: left;">
+
+                                <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+
+                                  <!-- Row 1: Image 30% + Heading 70% -->
+                                  <tr>
+                                    <td width="100%" valign="middle">
+                                      <img 
+                                        src="https://storage.mlcdn.com/account_image/946252/HbKMgYHY1ulcjifK6HVOosEiTyvlIH2NdHfKCW3j.png" 
+                                        width="100%"
+                                        style="display:block; border-top-right-radius: 15px; border-top-left-radius: 15px;"
+                                        alt="">
+                                    </td>
+                                  </tr>
+
+                                  <!-- Row 2: Full-width description -->
+                                  <tr style="background-color: white;">
+                                    <td colspan="2" style="padding-top:10px; padding-left: 15px; padding-right: 15px; padding-bottom: 15px; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;">
+                                      <h2 style="margin:0; font-size:20px; line-height:25px; color:#212934; padding-bottom: 5px;">
+                                        The 21-Day Leadership <br>Challenge
+                                      </h2>
+
+                                      <p style="margin:0; font-size:15px; line-height:20px; color:#212934; padding-bottom: 5px;">
+                                       Micro-learning program helping leaders build one skill per day.
+                                      </p>
+
+
+                                    </td>
+                                  </tr>
+                                </table>
+
+                        </td>
+              </tr>
+            </table>
+
+          </td>          
+        </tr>
+
+      </table>
+
+    </td>
+  </tr>
+</table>
+<!-- Ready Made learning challenges end here-->
+
+
+
+
+<!--CTA Section Start Here-->
+<table width="100%" cellpadding="0" cellspacing="0" role="presentation" bgcolor="white">
+  <tr>
+    <td align="center">
+      
+       <tr>
+          <td>
+
+            <!-- Content row -->
+            <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+              <tr class="cta-section" style="text-align: center;">
+                        
+                        <!--Block 1-->
+                        <td class="cta-section-block" style="padding:0px; border-radius:30px; background-color:#212934; text-align: left;">
+
+                                <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+
+                                  <tr>
+                                    <td colspan="2" style="padding-top:10px; padding-left: 15px; padding-right: 15px; padding-bottom: 15px; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; text-align: center;">
+                                            <h2 style="margin:0; font-size:40px; line-height:25px; color:white; padding-bottom: 5px;">
+                                              Get Started with Ripprl
+                                            </h2>
+
+                                            <p style="margin:0; font-size:15px; padding-top: 25px; line-height:22px; color:white; padding-bottom: 35px;">
+                                                Ripprl qualifies for training grants, making it <br>a cost-effective investment for your organisation.
+                                            </p>
+
+                                            <span class="footer-cta">
+                                                <span style="color:white; text-decoration: none; font-size: 16px; background-color: #F28C28; padding-top: 10px; padding-bottom: 10px;padding-left: 10px; padding-right: 10px; border-radius: 100px; border:none;">Reply to learn more</span>
+                                            </span>
+
+                                    </td>
+                                  </tr>
+                                </table>
+
+                        </td>
+              </tr>
+            </table>
+
+          </td>          
+        </tr>
+
+      </table>
+
+    </td>
+  </tr>
+</table>
+</body>
